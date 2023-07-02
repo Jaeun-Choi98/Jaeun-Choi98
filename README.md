@@ -1,6 +1,6 @@
-👋 Let me introduce
-Hi there! I'm jaeun, who wants to become a competent developer.
-I aim to study accurately and step by step. If you want to know more about me, click [here](https://jaeun-choi98.github.io)
+👋 Let me introduce   
+ Hi there! I'm jaeun, who wants to become a competent developer.🌱⚡    
+I aim to study accurately and step by step. If you want to know more about me, click [here](https://jaeun-choi98.github.io)💬   
 
 
 #### ✨Skills
@@ -11,17 +11,5 @@ I aim to study accurately and step by step. If you want to know more about me, c
 
 ##### Tools & Flatform
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Git-#F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
