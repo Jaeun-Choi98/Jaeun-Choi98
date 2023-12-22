@@ -5,7 +5,7 @@ I aim to study accurately and step by step. If you want to know more about me, c
 
 #### ✨Skills
 ##### Languge
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go3&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C3&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 
 ##### Tools & Flatform
